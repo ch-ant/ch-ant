@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="thoughts.gif" alt="Thoughts - an abstract animation" max-height="500px" border="2px solid black">
+  <img src="thoughts.gif" alt="Thoughts - an abstract animation" width="450px">
   
  _— BUT WHAT IF WE REALIZED — <br/> THE BEAUTY LIES IN THE SPACES BETWEEN_
 </div>
@@ -10,18 +10,18 @@
 </h1>
 
 <div>
-  <img src="animated-cubes.gif" width="300px" align="right" style="padding-left: 20px;" alt="Animated cubes GIF" />
+  <img src="animated-cubes.gif" width="300px" align="right" alt="Animated cubes GIF" />
 </div>
 
 ### <div><img src="daftpunktocat-thomas.gif" alt="Daftpunk octocat gif" width="70px" align="center"/> Full-Stack Software Engineer | AI Explorer</div> 
 
-<p>
-Building polished, high performance applications with innovation and attention to detail. I like systems that feel impactful, interfaces that feel intentional, and code that feels clean. Always eager to improve and learn something new — currently exploring AI agents.
-</p>
+Building polished, high performance applications with innovation and attention to detail. 
+<br/>
+I like systems that feel impactful, interfaces that feel intentional, and code that feels clean. 
+<br/>
+Always eager to improve and learn something new — currently exploring AI agents.
 
-<p>
 _Coding, to me, is both logical structure and visual rhythm — part engineering, part art._
-</p>
 
 ### 👇 Random Things About Me
 <ul>
@@ -37,7 +37,7 @@ _Coding, to me, is both logical structure and visual rhythm — part engineering
 
 ## 💻 Tech Skills
 
-<div align="center">
+<div align="left">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
